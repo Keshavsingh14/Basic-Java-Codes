@@ -1,4 +1,3 @@
-package Recursion;
 
 public class permutations {
     static void printPermutn(String str, String ans) {

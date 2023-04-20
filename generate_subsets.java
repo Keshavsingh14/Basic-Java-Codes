@@ -1,4 +1,4 @@
-package Recursion;
+
 
 public class generate_subsets {
     static void powerSet(String str, int index, String curr)

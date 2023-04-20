@@ -1,4 +1,4 @@
-package hashMap;
+
 import java.util.*;
 public class frequency {
     static int freq(int[] arr){

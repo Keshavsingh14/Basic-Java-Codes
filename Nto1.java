@@ -1,4 +1,4 @@
-package Recursion;
+
 
 public class Nto1 {
     static void print(int n){

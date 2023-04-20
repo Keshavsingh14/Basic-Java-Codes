@@ -1,5 +1,3 @@
-package Recursion;
-
 public class power_of_four {
     public boolean isPowerOfFour(int n) {
         if(n==0) return false;

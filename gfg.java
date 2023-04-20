@@ -1,4 +1,4 @@
-public class GFG {
+public class gfg {
 	public static int
 	findDisappearedNumbers(int[] nums)
 	{

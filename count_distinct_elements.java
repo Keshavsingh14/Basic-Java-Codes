@@ -1,4 +1,3 @@
-package hashMap;
 import java.util.*;
 
 public class count_distinct_elements {

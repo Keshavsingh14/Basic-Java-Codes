@@ -1,5 +1,3 @@
-package Recursion;
-
 public class power_of_three {
     public boolean isPowerOfThree(int n) {
         if(n<1){

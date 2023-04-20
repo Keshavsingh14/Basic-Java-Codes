@@ -1,4 +1,4 @@
-package Recursion;
+
 
 public class palindrome {
     boolean isPalindrome(String str, int start, int end){

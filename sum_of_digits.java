@@ -1,4 +1,3 @@
-package Recursion;
 
 public class sum_of_digits {
      static int sum(int n){

@@ -1,4 +1,3 @@
-package Recursion;
 
 public class josephus_problem {
     static int jos(int n, int k){

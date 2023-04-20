@@ -1,5 +1,3 @@
-package Recursion;
-
 public class power_of_x {
     public double myPow(double x, int n) {
         double ans = 1.0;
