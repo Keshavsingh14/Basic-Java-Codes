@@ -1,6 +1,4 @@
-
-
-class Solution{
+class rope_Cutting{
     public int cutRod(int price[], int n) {
 
         int dp[] = new int[n+1];
